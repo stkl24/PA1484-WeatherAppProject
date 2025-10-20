@@ -10,8 +10,8 @@
 #include "weather_api.h" //För att anropa "fetchWeatherData();"
 
 // Wi-Fi credentials (Delete these before commiting to GitHub)
-static const char* WIFI_SSID     = "SSID";
-static const char* WIFI_PASSWORD = "PWD";
+static const char* WIFI_SSID     = "Samsung 22+";
+static const char* WIFI_PASSWORD = "123456780";
 
 LilyGo_Class amoled;
 
