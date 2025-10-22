@@ -1,0 +1,47 @@
+{
+"createdTime":"2025-10-21T11:43:14Z",
+"referenceTime":"2025-10-21T11:30:00Z",
+"geometry":{
+    "type":"Point",
+    "coordinates":[
+        15.599364,
+        56.165988
+        ]
+    },
+"timeSeries":[
+    {"time":"2025-10-21T12:00:00Z",
+    "intervalParametersStartTime":"2025-10-21T11:00:00Z",
+    "data":{
+        "air_temperature":11.0,
+        "wind_from_direction":152,
+        "wind_speed":5.9,"wind_speed_of_gust":9.0,
+        "relative_humidity":86,
+        "air_pressure_at_mean_sea_level":999.5,
+        "visibility_in_air":10.8,
+        "thunderstorm_probability":0.00,
+        "probability_of_frozen_precipitation":0.00,
+        "cloud_area_fraction":8,
+        "low_type_cloud_area_fraction":1,
+        "medium_type_cloud_area_fraction":8,
+        "high_type_cloud_area_fraction":8,
+        "cloud_base_altitude":8589,
+        "cloud_top_altitude":9581,
+        "precipitation_amount_mean":0.2,
+        "precipitation_amount_min":0.3,
+        "precipitation_amount_max":0.3,
+        "precipitation_amount_median":0.3,
+        "probability_of_precipitation":70,
+        "precipitation_frozen_part":0.00,
+        "predominant_precipitation_type_at_surface":1.00,
+        "symbol_code":18.00
+        }
+    },
+    {"time":"2025-10-21T13:00:00Z",
+    "intervalParametersStartTime":"2025-10-21T12:00:00Z",
+    "data":{
+        "air_temperature":11.1,
+        "wind_from_direction":153
+        }
+    }
+]
+}
